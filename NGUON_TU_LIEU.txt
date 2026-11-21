@@ -1,0 +1,15 @@
+NGUỒN TƯ LIỆU – Video "Trách nhiệm với cộng đồng" (Phân hiệu Bình Thạnh, 11/2026)
+
+1. Hình ảnh, video tại Đài tưởng niệm: do thầy cô và học viên tự quay chụp ngày 17/11/2026.
+
+2. Cảnh flycam (miễn phí, Giấy phép Pexels – được dùng, chỉnh sửa, không bắt buộc ghi nguồn; video vẫn ghi nguồn nhỏ ở góc màn hình):
+   - 0:00–0:10  "Saigon Skyline and Saigon River Aerial View" – Duy Nguyen
+     https://www.pexels.com/video/saigon-skyline-and-saigon-river-aerial-view-35561857/
+   - 0:14–0:19  "Aerial View of Saigon Skyline and River" – Duy Nguyen
+     https://www.pexels.com/video/aerial-view-of-saigon-skyline-and-river-32427384/
+
+3. Bản đồ động (0:19–0:27): nền bản đồ © OpenStreetMap contributors (giấy phép ODbL, có ghi nguồn trên hình).
+   Lộ trình tính bằng OSRM trên dữ liệu OpenStreetMap: 801/19 Tầm Vu -> 2 Nơ Trang Long, khoảng 4,4 km.
+
+4. Nhạc nền: tạo bằng Suno (qua sunoapi.org), không lời.
+5. Giọng đọc: Google Gemini TTS (giọng nữ miền Nam).
