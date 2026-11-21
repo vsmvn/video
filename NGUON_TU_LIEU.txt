@@ -13,3 +13,4 @@ NGUỒN TƯ LIỆU – Video "Trách nhiệm với cộng đồng" (Phân hiệu
 
 4. Nhạc nền: tạo bằng Suno (qua sunoapi.org), không lời.
 5. Giọng đọc: Google Gemini TTS (giọng nữ miền Nam).
+6. Tiếng chuông: tổng hợp bằng máy (không dùng tư liệu bên ngoài).
